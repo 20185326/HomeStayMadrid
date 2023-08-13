@@ -1,0 +1,4 @@
+->Instalar ChatBot: npm create bot-whatsapp@latest
+->Instalar chatgpt: npm install openai
+->Instalar dotenv : npm install dotenv
+->Instalar chatgpt: npm install chatgpt

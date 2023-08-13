@@ -1,0 +1,14 @@
+Dia1 (8horas):
+Se realizo la recoleccion de datos del negocio y la creacion del diagrama 
+de flujo estimado para crear la arquitectura del negocio.
+Dia2 (10 horas):
+Se continuo corrigiendo el diagrama de flujo optimizandolo lo mejor posible antes de pasar a desarrollo
+Se creo un flujo de trabajo 
+Se comenzo con la TAREA 1: Creacion de prompts.
+Se comenzo/termino el prompt IA de deteccion de intenciones 1.
+Se comenzo el prompt IA de deteccion de intenciones 2.
+Dia3 (8Horas):
+Se termino el prompt IA de deteccion de intenciones 2.
+Se comenzo/Termino el prompt IA de deteccion de intenciones 3.
+
+

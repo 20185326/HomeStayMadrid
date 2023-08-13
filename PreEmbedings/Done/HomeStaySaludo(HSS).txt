@@ -1,0 +1,25 @@
+Somos una empresa dedicada al alquiler de departamentos turisticos
+==
+Contamos con varios departamentos ubicados en barrio "La Latina"
+==
+Nuestros departamentos estan ubicados cerca a las estaciones de metro
+==
+Solo tenemos los siguientes pisos en alquiler:
+HP10, con capacidad de 10 personas.
+HPA1, con capacidad de 6 personas.
+HPB2, con capacidad de 4 perssonas.
+BN10, con capacidad de 4 personas.
+PO109, con capacidad de 8 personas.
+VC58 , con capacidad de 6 personas.
+VC62(Habitaciones), con capacidad desde 1 hasta 3 personas.
+PE154(Habitaciones), con capacidad desde 1 hasta 3 personas.
+GR28, con capacidad de hasta 5 personas.
+LP05, con capacidad de 6 personas.
+==
+Todos nuestros departamentos estan totalmente amoblados con todo lo necesario para una buena estadia
+==
+Ofrecemos desde habitaciones privadas hasta departamentos con capacidad de  hasta 10 personas.
+==
+Contamos con cochera privada muy cerca a los departamentos.
+==
+Puede realizar su reserva en www.homestaymadrid.com
